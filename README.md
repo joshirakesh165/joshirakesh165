@@ -27,7 +27,7 @@
 
 <hr/>
 <h3 align="left">My Learing</h3>
-<a href="https://chatrj.netlify.app"><img src="https://chatrj.netlify.app/images/logo.png" height ="150" width="250" /></a>
+<h3><a href="https://chatrj.netlify.app">Simple Chat App (MEARN)</a></h3>
 <h3><a href="https://playitrj.netlify.app/play">Music Player</a></h3>
 <h3><a href="https://rj-mini-projects.netlify.app/">React Mini Projects</a></h3>
 
