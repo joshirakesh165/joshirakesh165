@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rakesh-joshi-8142a2150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-joshi-8142a2150/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakesh-joshi-8142a2150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-joshi-8142a2150/" height="30" width="40" target="_blank"/></a>
 </p>
 <hr/>
 
@@ -27,7 +27,7 @@
 
 <hr/>
 <h3 align="left">My Learing</h3>
-<h3><a href="https://chatrj.netlify.app">Simple Chat App (MEARN)</a></h3>
-<h3><a href="https://playitrj.netlify.app/play">Music Player</a></h3>
-<h3><a href="https://rj-mini-projects.netlify.app/">React Mini Projects</a></h3>
+<h3><a href="https://chatrj.netlify.app" target="_blank">Simple Chat App (MEARN)</a></h3>
+<h3><a href="https://playitrj.netlify.app/play" target="_blank">Music Player</a></h3>
+<h3><a href="https://rj-mini-projects.netlify.app/" target="_blank">React Mini Projects</a></h3>
 
