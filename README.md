@@ -32,7 +32,6 @@
 <h3><a href="https://rakeshj.netlify.app/" target="_blank">Portfolio website</a></h3>
 <h3><a href="https://playitrj.netlify.app/play" target="_blank">Music Player</a></h3>
 <h3><a href="https://commit-to-github-rj.netlify.app/" target="_blank">Commit to Github</a></h3>
-<h3><a href="[https://commit-to-github-rj.netlify.app/](https://rj-kanban-board.netlify.app/)" target="_blank">Commit to Github</a></h3>
+<h3><a href="https://rj-kanban-board.netlify.app/" target="_blank">Simple Kanban Board</a></h3>
 
-https://rj-kanban-board.netlify.app/
 
