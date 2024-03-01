@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh Joshi</h1>
+0\<h1 align="center">Hi 👋, I'm Rakesh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="joshirakesh165_github">
 
@@ -28,6 +28,11 @@
 <hr/>
 <h3 align="left">My Learing</h3>
 <h3><a href="https://chatrj.netlify.app" target="_blank">Simple Chat App (MEARN)</a></h3>
-<h3><a href="https://playitrj.netlify.app/play" target="_blank">Music Player</a></h3>
 <h3><a href="https://rj-mini-projects.netlify.app/" target="_blank">React Mini Projects</a></h3>
+<h3><a href="https://rakeshj.netlify.app/" target="_blank">Portfolio website</a></h3>
+<h3><a href="https://playitrj.netlify.app/play" target="_blank">Music Player</a></h3>
+<h3><a href="https://commit-to-github-rj.netlify.app/" target="_blank">Commit to Github</a></h3>
+<h3><a href="[https://commit-to-github-rj.netlify.app/](https://rj-kanban-board.netlify.app/)" target="_blank">Commit to Github</a></h3>
+
+https://rj-kanban-board.netlify.app/
 
